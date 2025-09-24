@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    border-bottom: 1px solid rgb(64, 64, 64);
+    height: 6vh;
+    width: 100%;
+    gap: 2%;
+    margin-bottom: 7vh;
+}
+.nav-btn{
+    color: aliceblue;
+    background-color: rgb(18, 18, 18);
+    border: none;
+}

@@ -1,0 +1,33 @@
+.textbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    height: 58.5px;
+    width: 58px;
+    border: 2.2px solid rgb(64, 64, 64);
+    margin: 0.15%;
+}
+.wordle-container {
+    display: flex;
+    justify-content: center;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
+.grey {
+    background-color: rgb(64,64,64);
+    border: 2.2px solid rgb(64,64,64);
+}
+.yellow {
+    background-color: #b59f3b;
+    border: 2.2px solid #b59f3b;
+}
+.green {
+    background-color: #538d4e;
+    border: 2.2px solid #538d4e;
+}
