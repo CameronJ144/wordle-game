@@ -1,7 +1,7 @@
 {
   "name": "wordle-project",
   "version": "0.1.0",
-  "homepage": "https://CameronJ144.github.io/wordle-project",
+  "homepage": "https://CameronJ144.github.io/wordle-game",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
