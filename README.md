@@ -3,7 +3,8 @@ Link - https://cameronj144.github.io/wordle-game/
 1. Lightbulb Button - 3 Hints: Vowels, Consonants, First Letter
 2. Question Mark Button - How to Play Wordle
    
-How To Play Below:
+Rules of Wordle: 
+
 Guess the word in 6 tries.
 
 Each guess must be a valid 5 real letter word found on the dictionary. Hit the enter button to submit.
