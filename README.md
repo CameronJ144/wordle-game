@@ -1,4 +1,4 @@
-# Wordle Game Project (FAQS)
+# Wordle Game Project REACT (FAQS)
 Link - https://cameronj144.github.io/wordle-game/
 1. Lightbulb Button - 3 Hints: Vowels, Consonants, First Letter
 2. Question Mark Button - How to Play Wordle
